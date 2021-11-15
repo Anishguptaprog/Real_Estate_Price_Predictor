@@ -252,7 +252,6 @@ def print_scores(scores):
 print_scores(rmse_scores)
 
 
-# Quiz: Convert this notebook into a python file and run the pipeline using Visual Studio Code
 
 # ## Saving the model
 
